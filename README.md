@@ -35,3 +35,6 @@ To start the script, follow these steps:
      node index.js
      ```
   II) If you want it to run continuously, we recommend installing `pm2` on your system.
+
+# Questions / Help
+If you have any question, feel free to contact me via discord.
