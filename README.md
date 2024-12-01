@@ -29,6 +29,7 @@ Once this is done, you're ready to use it. We highly recommend using a Linux VPS
 To start the script, follow these steps:
 - **For Windows**: Run the `starter.bat` file.
 - **For Linux**:
+
   I) If you only want it to run while your VPS terminal is open, use the command:
      ```
      node index.js
